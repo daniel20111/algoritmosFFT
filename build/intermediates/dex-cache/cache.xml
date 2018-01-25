@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel\Desktop\android-heart-rate-monitor-1-master222\app\libs\graphview-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="12c054c623caacf9db0e4b9719b3ebb0e85959aa">
+        <dex dex="C:\Users\daniel\Desktop\android-heart-rate-monitor-1-master222\app\build\intermediates\pre-dexed\debug\graphview-3.1_78a01f675ec4ccbf90e3a0eb4a93051b694f66fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel\Desktop\android-heart-rate-monitor-1-master222\app\libs\commons-collections4-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da217367fd25e88df52ba79e47658d4cf928b0d1">
+        <dex dex="C:\Users\daniel\Desktop\android-heart-rate-monitor-1-master222\app\build\intermediates\pre-dexed\debug\commons-collections4-4.0_a26255545ef8fbc12116081335245f28668f6c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel\Desktop\android-heart-rate-monitor-1-master222\app\libs\commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="C:\Users\daniel\Desktop\android-heart-rate-monitor-1-master222\app\build\intermediates\pre-dexed\debug\commons-lang3-3.2.1_a71d4a2cb5462e136cf2fdcc6a5c2636d816192f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,104 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\libraries\
+* .idea\libraries\GraphView_3_1_1.xml
+* .idea\libraries\commons_collections4_4_0.xml
+* .idea\libraries\commons_lang3_3_2_1.xml
+* .idea\uiDesigner.xml
+* LICENSE
+* Processing\
+* Processing\HeartRate_udp\
+* Processing\HeartRate_udp\HeartRate_udp.pde
+* Processing\HeartRate_udp\udp.pd
+* Processing\udp\
+* Processing\udp\examples\
+* Processing\udp\examples\udp\
+* Processing\udp\examples\udp\udp.pd
+* Processing\udp\examples\udp\udp.pde
+* Processing\udp\examples\udp_multicast\
+* Processing\udp\examples\udp_multicast\udp_multicast.pde
+* Processing\udp\library.properties
+* Processing\udp\library\
+* Processing\udp\library\udp.jar
+* Processing\udp\reference\
+* Processing\udp\reference\index.htm
+* Processing\udp\reference\stylesheet.css
+* Processing\udp\reference\udp_class_udp.htm
+* Processing\udp\reference\udp_field_buffer_size.htm
+* Processing\udp\reference\udp_method_address.htm
+* Processing\udp\reference\udp_method_broadcast.htm
+* Processing\udp\reference\udp_method_close.htm
+* Processing\udp\reference\udp_method_dispose.htm
+* Processing\udp\reference\udp_method_getbuffer.htm
+* Processing\udp\reference\udp_method_gettimetolive.htm
+* Processing\udp\reference\udp_method_isbroadcast.htm
+* Processing\udp\reference\udp_method_isclosed.htm
+* Processing\udp\reference\udp_method_isjoined.htm
+* Processing\udp\reference\udp_method_islistening.htm
+* Processing\udp\reference\udp_method_isloopback.htm
+* Processing\udp\reference\udp_method_ismulticast.htm
+* Processing\udp\reference\udp_method_listen.htm
+* Processing\udp\reference\udp_method_loopback.htm
+* Processing\udp\reference\udp_method_port.htm
+* Processing\udp\reference\udp_method_run.htm
+* Processing\udp\reference\udp_method_send.htm
+* Processing\udp\reference\udp_method_setbuffer.htm
+* Processing\udp\reference\udp_method_setreceivehandler.htm
+* Processing\udp\reference\udp_method_settimeouthandler.htm
+* Processing\udp\reference\udp_method_settimetolive.htm
+* Processing\udp\src\
+* Processing\udp\src\UDP.java
+* README.md
+* default.properties
+* ic_launcher-web.png
+* screenshots\
+* screenshots\blank.png
+* screenshots\blank_small.png
+* screenshots\device-2014-06-07-130920.png
+* screenshots\featured.png
+* screenshots\featured.svg
+* screenshots\heartrate.png
+* screenshots\heartrate_small.png
+* screenshots\ic_launcher.png
+* screenshots\icon.png
+* screenshots\icon.svg
+* screenshots\promo.png
+* screenshots\promo.svg
+* screenshots\udp.png
+* screenshots\udp_small.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\commons-collections4-4.0.jar => app\libs\commons-collections4-4.0.jar
+* libs\commons-lang3-3.2.1.jar => app\libs\commons-lang3-3.2.1.jar
+* libs\graphview-3.1.jar => app\libs\graphview-3.1.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

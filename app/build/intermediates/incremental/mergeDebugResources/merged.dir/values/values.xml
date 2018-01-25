@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">FFT: Ritmo Cardiaco</string>
+    <string name="default_text">--</string>
+    <string name="error_invalidaddr">Invalid IP address</string>
+    <string name="error_neterror">Unknown UDP network problem</string>
+    <string name="error_sensorerror">Unknown IMU sensor problem</string>
+    <string name="error_warningwifi">Warning: Not connected to a WIFI network.</string>
+    <string name="hint_target_ip">Target IP</string>
+    <string name="hint_target_port">Target port</string>
+    <string name="label_data_to_target">Stream data to IP</string>
+</resources>

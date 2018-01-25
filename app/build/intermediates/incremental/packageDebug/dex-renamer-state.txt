@@ -1,0 +1,4 @@
+#Sun Jan 21 13:05:18 UTC 2018
+base.0=C\:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

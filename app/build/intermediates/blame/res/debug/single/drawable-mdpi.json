@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\red_icon.png",
+        "source": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\src\\main\\res\\drawable-mdpi\\red_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\green_icon.png",
+        "source": "C:\\Users\\daniel\\Desktop\\android-heart-rate-monitor-1-master222\\app\\src\\main\\res\\drawable-mdpi\\green_icon.png"
+    }
+]
